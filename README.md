@@ -70,6 +70,9 @@ Air_Quality_Humidity_Prediction_Model/
 ├── data/
 │   └── AirQualityUCI.xlsx
 │
+├── models/
+│   └── model link.md
+|
 ├── research/
 │   ├── Research Article.pdf
 │   └── model.ipynb
